@@ -1,0 +1,18 @@
+models
+thermal 0.508939     +/-  5.60788E-02
+nonthermal 5.66767E-07  +/-  5.13607E-03
+
+chi=0.913
+
+nonthermal flux 20 80 - 1.2589e-15 +/- 1.1408e-11
+
+nuFnu = 1.07110916E-2 kev* phot /cm^2/s
+
+confidence
+thermal 0.392743     0.514007
+nonthermal 0   0.00417144
+
+confidence intervals
+thermal 0.47 nonthermal 0.00417144
+thermal 0.38 nonthermal 0
+

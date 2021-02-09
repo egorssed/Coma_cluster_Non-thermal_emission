@@ -1,0 +1,22 @@
+models
+thermal   3.45119    +/-   3.45119 
+nonthermal 5.06285E-08  +/-  1.06808E-02 
+
+chi=0.718
+
+nonthermal flux  0.01006
+
+nuFnu 1.06808003E-2 kev * photons/cm^2/s
+
+confidence
+thermal 2.90408    3.99626
+nonthermal 0    0.01006
+
+
+only thermal 
+
+confidence intervals
+thermal 0.43 nonthermal 0.00764
+thermal 0.37 nonthermal 0
+
+ззззззззззжж
