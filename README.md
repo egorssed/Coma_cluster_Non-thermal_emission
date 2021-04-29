@@ -33,5 +33,5 @@ The lack of measurement accuracy didn't allow us to detect non-thermal radiation
 <figure>
   <figtitle>Inverse compton flux and magnetic field from synchrotron radiation</figtitle>
   <img src="./pictures/Magnetic_Field.png" width="600" height="400">
-   <figcaption>Solid line - homogeneous magnetic field. Dash, dash-dotted lines - limits for magnetic field in cluster's center for inhomogeneous field case/figcaption>
+   <figcaption>Solid line - homogeneous magnetic field. Dash, dash-dotted lines - limits for magnetic field in cluster's center for inhomogeneous field case</figcaption>
 </figure>
