@@ -25,7 +25,7 @@ The spectrum of the cluster in the 17-120 keV range was approximated (with high 
 
 <figure>
   <figtitle>90% confidence hard X-ray spectrum of Coma cluster</figtitle>
-  <img src="./pictures/Coma_2_image.jpg" width="400" height="200">
+  <img src="./pictures/90percent.png" width="400" height="200">
 </figure>
 
 The lack of measurement accuracy didn't allow us to detect non-thermal radiation, rather than to put an upper constraint on its flux. In the 20-80 keV range, the upper limit of the non-thermal radiation flux with an accuracy of one standard deviation was 1.1 × 10^-11 erg. From the upper limit of the non-thermal emission flux corresponding to 90% confidence (3σ), the lower limit of the magnetic field of the Coma galaxy cluster was computed. Assuming the field's homogeneity, the lower magnetic field limit was 𝐵_u ≥ 0.2 𝜇G. Considering the field’s heterogeneity, the determined magnetic field in the center of the cluster was 𝐵_c = 𝜑(𝑎) × 𝐵_u, where the factor 𝜑(𝑎) takes values from 1 to 2.8 depending on the assumed parameter of heterogeneity a.
