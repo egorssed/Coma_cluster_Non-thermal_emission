@@ -18,7 +18,7 @@ Based on the spatial properties of the radiation flux, it was confirmed that the
 
 <figure>
   <figtitle>Original and filetered images of the cluster</figtitle>
-  <img src="./pictures/Coma_2_image.jpg" width="600" height="300">
+  <img src="./pictures/Coma_2_image.jpg" width="400" height="200">
 </figure>
 
 The spectrum of the cluster in the 17-120 keV range was approximated (with high accuracy 𝜒2 = 0.16) by the model of thermal radiation of optically thin collision-ionized plasma (bremsstrahlung) with temperature T=8.2 keV in combination with a power-law with the photon index G = 2, corresponding to non-thermal radiation caused by Sunyaev–Zeldovich effect. 
@@ -32,6 +32,6 @@ The lack of measurement accuracy didn't allow us to detect non-thermal radiation
 
 <figure>
   <figtitle>Inverse compton flux and magnetic field from synchrotron radiation</figtitle>
-  <img src="./pictures/Magnetic_Field.png" width="300" height="200">
+  <img src="./pictures/Magnetic_Field.png" width="600" height="400">
    <figcaption>Solid line - homogeneous magnetic field. Dash, dash-dotted lines - limits for magnetic field in cluster's center for inhomogeneous field case/figcaption>
 </figure>
