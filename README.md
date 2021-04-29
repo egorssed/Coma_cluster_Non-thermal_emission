@@ -17,7 +17,7 @@ Based on the spatial properties of the radiation flux, it was confirmed that the
 </figure>
 
 <figure>
-  <figtitle>Increase curve of filtered image</figtitle>
+  <figtitle>Original and filetered images of the cluster</figtitle>
   <img src="./pictures/Coma_2_image.jpg" width="400" height="200">
 </figure>
 
